@@ -1,0 +1,3 @@
+Txuritan:https://raw.githubusercontent.com/Txuritan/Txuritan.github.io/master/img/capes/owner_cape.png
+yu02241:https://raw.githubusercontent.com/Txuritan/Txuritan.github.io/master/img/capes/dev_cape.png
+skuba18:https://raw.githubusercontent.com/Txuritan/Txuritan.github.io/master/img/capes/dev_cape.png

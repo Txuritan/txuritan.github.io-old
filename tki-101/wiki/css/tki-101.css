@@ -1,0 +1,55 @@
+body {
+    padding-top: 70px;
+}
+
+.navbar-toggle {
+    border-radius: 0px;
+}
+
+.navbar-default {
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+}
+
+.dropdown-menu {
+    border-radius: 0px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+.well {
+    border-radius: 0px;
+    -webkit-box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+}
+
+.alert {
+    border-radius: 0px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+}
+
+.well-white {
+    background-color: #fff;
+}
+
+.breadcrumb-white {
+    background-color: #fff;
+    border-radius: 0px;
+    border: 1px solid #e3e3e3;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+}
+
+.panel {
+    border-radius: 0px;
+    -webkit-box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}

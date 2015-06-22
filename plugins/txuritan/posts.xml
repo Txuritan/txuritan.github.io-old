@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <post>
+        <title>
+            <![CDATA[<a href="http://txuritan.github.io/yu02241/">yu02241 Sub Domain</a> now with Soundcloud IFrame</strong>]]>
+        </title>
+
+        <body></body>
+        <footer>
+            <![CDATA[]]>
+        </footer>
+        <id>post3</id>
+        <fa>cloud-upload</fa>
+        <color>blue</color>
+    </post>
+    <post>
+        <title>
+            <![CDATA[<a href="#">PotatoCraft: Reborn</a> 1.7.10-A-0.0.2-0.0 <strong>(DEV)</strong>]]>
+        </title>
+
+        <body></body>
+        <footer>
+            <![CDATA[<a href="downloads.html" class="btn btn-primary btn-xs">Download Here</a>]]>
+        </footer>
+        <id>post2</id>
+        <fa>cloud-upload</fa>
+        <color>blue</color>
+    </post>
+    <post>
+        <title>
+            <![CDATA[<a href="#">Potatocraft Update</a> 1.6.4-A-0.0.1-8]]>
+        </title>
+
+        <body></body>
+        <footer>
+            <![CDATA[<a href="downloads.html" class="btn btn-primary btn-xs">Download Here</a>]]>
+        </footer>
+        <id>post1</id>
+        <fa>cloud-upload</fa>
+        <color>blue</color>
+    </post>
+</root>

@@ -1,0 +1,126 @@
+---
+title: Downloads
+layout: default
+---
+<div class="content-wrapper">
+    <section class="content-header">
+        <h1>{{ page.title }}</h1>
+        <ol class="breadcrumb">
+            <li><a href="/"> Home</a>
+            </li>
+            <li><a href="{{ page.url }}"><i class="active"></i> {{ page.title }}</a>
+            </li>
+        </ol>
+    </section>
+    <section class="content">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="box">
+                    <div class="box-header">
+                        <h3 class="box-title">Minecraft</h3>
+                    </div>
+                    <div class="box-body">
+                        <table id="minecraft" class="table table-hover table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>MC Version</th>
+                                    <th>Version</th>
+                                    <th>Download</th>
+                                </tr>
+                            </thead>
+                            <tfoot>
+                                <tr>
+                                    <th>MC Version</th>
+                                    <th>Version</th>
+                                    <th>Download</th>
+                                </tr>
+                            </tfoot>
+                            <tbody>
+                                <tr>
+                                    <td>1.7.10</td>
+                                    <td>potatocraft-reborn-1.7.10-A-0.0.2-0.0-dev</td>
+                                    <td><a href="https://mega.co.nz/#!UhYCRZxR!FXjIzpP86BqozLEVcINiP9kCE0YyHe6XHsc_zKAq4s0">Download</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>1.6.4</td>
+                                    <td>patch-1.6.4-A-0.0.4-0.4</td>
+                                    <td><a href="https://mega.co.nz/#!w4IXmAxL!MRFhNc2NyRKeuCGEd_aoJJfobUD2Nc8sg-meQywkTpU">Download</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>1.6.4</td>
+                                    <td>potatocraft-1.6.4-A-0.0.1-8</td>
+                                    <td><a href="https://mega.co.nz/#!NoJmQYrI!4igtj4pPkQW1ZqBr3zAydfd5gDKeFblETSn4OkrQUAs">Download</a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12">
+                <div class="box">
+                    <div class="box-header">
+                        <h3 class="box-title">Skyrim</h3>
+                    </div>
+                    <div class="box-body">
+                        <table id="skyrim" class="table table-hover table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>SKSE</th>
+                                    <th>Version</th>
+                                    <th>Download</th>
+                                </tr>
+                            </thead>
+                            <tfoot>
+                                <tr>
+                                    <th>SKSE</th>
+                                    <th>Version</th>
+                                    <th>Download</th>
+                                </tr>
+                            </tfoot>
+                            <tbody>
+                                <tr>
+                                    <td>Not Needed</td>
+                                    <td>patch-0.0.1</td>
+                                    <td><a href="https://mega.co.nz/#!A8oAwTzK!Q7Yb0XiQ6yWOUVWcYR-hesPhw8skLmaLbNXowXwAhvc">Download</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Beta 1.7.2</td>
+                                    <td>skyrim-modpack-v2-0.0.1-0</td>
+                                    <td><a href="https://mega.co.nz/#F!p0AxHR4S!lUHNcM_H7xvIOy-6D07_1A">Download</a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="/plugins/jQuery/jQuery-2.1.3.min.js"></script>
+    <script src="/plugins/datatables/jquery.dataTables.js"></script>
+    <script src="/plugins/datatables/dataTables.bootstrap.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $("#minecraft").dataTable({
+                "bPaginate": false,
+                "bLengthChange": false,
+                "bFilter": false,
+                "bSort": true,
+                "bInfo": true,
+                "bAutoWidth": true
+            });
+            $("#skyrim").dataTable({
+                "bPaginate": false,
+                "bLengthChange": false,
+                "bFilter": false,
+                "bSort": true,
+                "bInfo": true,
+                "bAutoWidth": true
+            });
+        });
+    </script>
+</div>
