@@ -2,6 +2,7 @@
 title: Now using Jekyll
 layout: post
 disqusid: now-using-jekyll
+category: post
 ---
 
 It took for ever to do so but I converted my site over to Jekyll so updating and adding new pages with be much easier. This also means that the website will be updated a lot as I try to fix the mistakes.

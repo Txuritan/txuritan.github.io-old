@@ -1,1 +1,4 @@
-permalink: /post/:title/
+permalink: /:categories/:title/
+github_url: https://github.com/Txuritan
+tumblr_url: http://txuritan.tumblr.com/
+twitter_url: https://twitter.com/TxuritanS

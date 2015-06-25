@@ -2,6 +2,7 @@
 title: How to setup a Jekyll Github site part 1
 layout: post
 disqusid: setup-jekyll-site-pt1
+category: post
 ---
 
 
@@ -40,10 +41,10 @@ First you'll need to install Ruby (If you have OS X you might have it). Once ins
 Add ``` - C:/Ruby22 ``` for x32 or ``` - C:/Ruby22-x64 ``` for x64 below the ``` --- ``` (if you change the default install directory for Ruby change it to point to that folder). You'll then need to go back to the termial and run ``` ruby dk.rb install ```. Wait till that complets and it should be installed.
 
 After you have Ruby (and DevKit) installed you'll need to install bundler. OPen the terminal and run ``` gem install bundler -v '= 1.5.1 ``` or else the json gem will break and you wont be able to install the github gem. Move to your git repo directory and make a ``` Gemfile ```, inside you should put.
-```
+<pre>
 source 'http://rubygems.org'
 gem 'github-pages'
-```
+</pre>
 Go back to your terminal and run ``` bundle install ```, everything should work and it will start to install the gems required for Github Pages. Create a run.server.bat (Windows), inside put ``` bundle exec jekyll serve ```, or you can just run it from the terminal.
 
 If everything runs smoothly you server should be started (end it with ctrl+c) and inside your git repo directory there should be a ``` _site ``` folder that means you've got Jekyll installed and running and ready to set up you website which I'll go over in the next part.
