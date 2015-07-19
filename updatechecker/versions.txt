@@ -1,3 +1,4 @@
 mcversion = Minecraft 1.7.10
 
+KiKiCore = 1.7.10-0.0.1
 KiKiUpdateChecker = 1.7.10-0.0.1
