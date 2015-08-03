@@ -65,15 +65,14 @@
 
 <body class="skin-blue fixed sidebar-mini">
     <div class="wrapper">
-        {% include nav.html %} {{ content }}
+        {% include nav.html %}
+        {{ content }}
+        <div id="twitch_online" class="alert alert-info alert-dismissable fade in">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+            <h4><i class="icon fa fa-info"></i> I'm Streaming Live</h4>
+            <a href="http://www.twitch.tv/txuritan">Go-to stream (If you want)</a>
+        </div>
         <footer class="main-footer">
-            <div class="pull-right">
-                <div class="btn-group">
-                    <a class="btn btn-sm btn-social-icon btn-github" href="{{ site.github_url }}"><i class="fa fa-github"></i></a>
-                    <a class="btn btn-sm btn-social-icon btn-tumblr" href="{{ site.tumblr_url }}"><i class="fa fa-tumblr"></i></a>
-                    <a class="btn btn-sm btn-social-icon btn-twitter" href="{{ site.twitter_url }}"><i class="fa fa-twitter"></i></a>
-                </div>
-            </div>
             <strong>Copyright &copy; 2015 <a href="/">Txuritan</a>.</strong>
         </footer>
     </div>
@@ -81,6 +80,16 @@
     <script src="/plugins/slimScroll/jquery.slimscroll.min.js" type="text/javascript"></script>
     <script src="/plugins/fastclick/fastclick.min.js"></script>
     <script src="/dist/js/app.min.js" type="text/javascript"></script>
+    <script>
+        $.getJSON('https://api.twitch.tv/kraken/streams/txuritan', function(channel) {
+            if (channel["stream"] == null) {
+                $("#twitch_online").alert('close')
+            } else {
+
+            }
+        });
+
+    </script>
 </body>
 
 </html>
