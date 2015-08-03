@@ -81,7 +81,7 @@
     <script src="/plugins/fastclick/fastclick.min.js"></script>
     <script src="/dist/js/app.min.js" type="text/javascript"></script>
     <script>
-        $.getJSON('https://api.twitch.tv/kraken/streams/txuritan', function(channel) {
+        $.getJSON('http://api.twitch.tv/kraken/streams/txuritan', function(channel) {
             if (channel["stream"] == null) {
                 $("#twitch_online").alert('close')
             } else {
