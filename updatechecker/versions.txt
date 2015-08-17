@@ -2,3 +2,4 @@ mcversion = Minecraft 1.7.10
 kikicore = 1.7.10-0.0.2
 kikiupdatechecker = 1.7.10-0.0.1
 kikirandomite = 1.7.10-0.2.0
+daanacce = 17.10-0.1.0
