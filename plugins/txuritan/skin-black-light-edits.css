@@ -45,6 +45,9 @@
     border-bottom-right-radius: 0px;
     border-bottom-left-radius: 0px;
 }
+.skin-black-light .wrapper, .skin-black-light .main-sidebar, .skin-black-light .left-side {
+    background-color: transparent;
+}
 textarea,
 textarea.form-control,
 input.form-control,
