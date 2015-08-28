@@ -1,26 +1,26 @@
 .skin-black-light .main-header {
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.26);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 }
 .box {
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.26);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 }
 .timeline > li > .timeline-item {
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.26);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 }
 .timeline > li > .fa,
 .timeline > li > .glyphicon,
 .timeline > li > .ion {
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.26);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 }
 .callout {
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.26);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 }
 .btn {
     border-radius: 0px;
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.26);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 }
 .box-body {
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.26);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 0px 0px;
 }
 .box-footer.disqus {
@@ -33,7 +33,7 @@
     border-radius: 0px;
 }
 .nav-tabs-custom {
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.26);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
     border-radius: 0px;
 }
 
