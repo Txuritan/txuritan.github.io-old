@@ -6,9 +6,9 @@ $.ajax({
     success: function (channel) {
         if (channel["stream"] === null) {
             $("#twitch_online").alert('close');
-            console.log('Channel Offline');
+            console.log('Txuritan Online Checker: Channel Offline');
         } else {
-            console.log('Channel Online');
+            console.log('Txuritan Online Checker: Channel Online');
         }
     }
 });
