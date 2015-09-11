@@ -36,7 +36,14 @@ layout: default
                 </div>
             </div>
             <div class="col-md-6">
-                <ul class="timeline">
+                
+                <div class="box box-solid">
+                    <div class="box-body">
+                        <div id="feed"></div>
+                    </div>
+                </div>
+                
+                <!--<ul class="timeline">
                     <li id="post3"><i class="fa fa-cloud-upload bg-blue"></i>
                         <div class="timeline-item">
                             <h3 class="timeline-header"><a href="http://txuritan.github.io/yu02241/">yu02241 Sub Domain</a> now with Soundcloud IFrame</h3>
@@ -67,8 +74,16 @@ layout: default
                     </li>
                     <li><i class="fa fa-clock-o bg-gray"></i>
                     </li>
-                </ul>
+                </ul>-->
             </div>
         </div>
     </section>
 </div>
+<script>
+    GitHubActivity.feed({
+        username: "Txuritan",
+        repository: "txuritan.github.io", // optional
+        selector: "#feed",
+        limit: 10 // optional
+    });
+</script>
