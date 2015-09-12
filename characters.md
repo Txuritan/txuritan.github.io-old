@@ -1,3 +1,8 @@
+---
+title: Character
+layout: default
+---
+
 Info | Taeh Osearr | Alliana Linnan | Nuro | Kristian Phyno | Nyrena Xelei
 ---- | ---- | ---- | ---- | ---- | ---- | ----
 Nickname | | Alla | |Kiki | | 
