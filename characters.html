@@ -19,7 +19,7 @@ layout: default
             <div class="col-md-12">
                 <div class="box box-solid">
                     <div class="box-body">
-                        <table>
+                        <table id="characters" class="table table-hover table-bordered table-striped">
                             <thead>
                                 <tr>
                                     <th>Info</th>
@@ -366,4 +366,19 @@ layout: default
             </div>
     </section>
     </div>
+</div>
+<script src="/plugins/datatables/jquery.dataTables.js"></script>
+    <script src="/plugins/datatables/dataTables.bootstrap.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $("#characters").dataTable({
+                "bPaginate": false,
+                "bLengthChange": false,
+                "bFilter": false,
+                "bSort": false,
+                "bInfo": true,
+                "bAutoWidth": true
+            });
+        });
+    </script>
 </div>
