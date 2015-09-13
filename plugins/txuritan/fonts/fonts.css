@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'aerofoil';
+    src: url('https://cdn.rawgit.com/Txuritan/site-fonts/master/aerofoil/Aerofoil.ttf') format('truetype');
+}
+.aerofoil {
+    font-family: 'aerofoil';
+}
+@font-face {
+    font-family: 'also';
+    src: url('https://cdn.rawgit.com/Txuritan/site-fonts/master/also/Also.ttf') format('truetype');
+}
+.also {
+    font-family: 'also';
+}
+@font-face {
+    font-family: 'circuit_mage';
+    src: url('https://cdn.rawgit.com/Txuritan/site-fonts/master/circuit_mage/Circuit%20Mage.ttf') format('truetype');
+}
+.circuit_mage {
+    font-family: 'circuit_mage';
+}
+@font-face {
+    font-family: 'frau_unifon';
+    src: url('https://cdn.rawgit.com/Txuritan/site-fonts/master/fraulein/frau-unifon.ttf') format('truetype');
+}
+.frau_unifon {
+    font-family: 'frau_unifon';
+}
+@font-face {
+    font-family: 'note_this';
+    src: url('https://cdn.rawgit.com/Txuritan/site-fonts/master/note_this/Note%20this.ttf') format('truetype');
+}
+.note_this {
+    font-family: 'note_this';
+}
