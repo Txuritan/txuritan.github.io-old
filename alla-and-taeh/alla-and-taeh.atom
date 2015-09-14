@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <feed xmlns="http://www.w3.org/2005/Atom">
+
+        <title>Alla And Tahe Feed</title>
+        <subtitle>ALL THE UPDATSE!!!!</subtitle>
+        <link href="http://txuritan.github.io/alla-and-taeh/" />
+        <link type="application/atom+xml" rel="self" href="http://txuritan.github.io/alla-and-taeh/alla-and-taeh.atom" />
+        <id>http://txuritan.github.io/</id>
+        <updated>9-13-2015-8:10PM</updated>
+
+        <entry>
+            <title>Alla And Taeh Part 2</title>
+            <link href="http://txuritan.github.io/alla-and-taeh/alla-and-taeh-2.html" />
+            <updated>9-13-2015-8:10PM</updated>
+            <summary>Alla And Taeh Part 2 Out Now</summary>
+            <content type="xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
+                    <p>You Know Whats Up</p>
+                </div>
+            </content>
+            <author>
+                <name>Ian 'Txuritan' Cronkright</name>
+                <email>txurtian@yahoo.com</email>
+            </author>
+        </entry>
+
+    </feed>
