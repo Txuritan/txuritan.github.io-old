@@ -1,14 +1,14 @@
 - title: "Home"
   href: "/"
 
-- title: "News"
-  href: "/news/"
+- title: "Home"
+  href: "/"
 
-- title: "Snippets"
+- title: "Minecraft"
   subcategories:
-    - subtitle: "Example1"
+    - subtitle: "Project Blankslate"
       subhref: "#"
-    - subtitle: "Example2"
+    - subtitle: "Patch"
       subhref: "#"
-    - subtitle: "Example3"
+    - subtitle: "Wither Realms"
       subhref: "#"
