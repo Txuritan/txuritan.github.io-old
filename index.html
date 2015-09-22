@@ -5,9 +5,10 @@ layout: default
 <div class="content-wrapper">
     <section class="content-header">
         <h1>Home</h1>
-        <ol class="breadcrumb">
-            <li>
-                <a href="/"><i class="active"></i> Home</a>
+        <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="http://txuritan.github.io/"> <span itemprop="name">Home</span></a>
+                <meta itemprop="position" content="1" />
             </li>
         </ol>
     </section>
@@ -85,11 +86,3 @@ layout: default
         </div>
     </section>
 </div>
-<script>
-    GitHubActivity.feed({
-        username: "Txuritan",
-        repository: "txuritan.github.io", // optional
-        selector: "#feed",
-        limit: 5 // optional
-    });
-</script>

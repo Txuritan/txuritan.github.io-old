@@ -1,16 +1,22 @@
 ---
-title: Alla and Taeh Part 2
+title: Alla and Taeh Chapter 2 Part 1
 layout: default
 ---
 <div class="content-wrapper">
     <section class="content-header">
         <h1>{{ page.title }}</h1>
-        <ol class="breadcrumb">
-            <li>
-                <a href="/"> Home</a>
+        <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="http://txuritan.github.io/"> <span itemprop="name">Home</span></a>
+                <meta itemprop="position" content="1" />
             </li>
-            <li>
-                <a href="{{ page.url }}"><i class="active"></i> {{ page.title }}</a>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="http://txuritan.github.io/alla-and-taeh/"> <span itemprop="name">Alla and Taeh</span></a>
+                <meta itemprop="position" content="2" />
+            </li>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="ttp://txuritan.github.io/alla-and-taeh/alla-and-taeh-2.html"><i class="active"></i> <span itemprop="name">Chapter2 Part 1</span></a>
+                <meta itemprop="position" content="3" />
             </li>
         </ol>
     </section>
@@ -409,7 +415,7 @@ layout: default
                         <nav>
                             <ul class="pager">
                                 <li class="previous">
-                                    <a href="alla-and-taeh-1.html"><span aria-hidden="true">&larr;</span> Part 1</a>
+                                    <a onclick="ga('send', 'event', 'link', 'click', 'alla-and-taeh-chapter-1-part-1', 1);" href="alla-and-taeh-1.html"><span aria-hidden="true">&larr;</span> Part 1</a>
                                 </li>
                                 <li class="next disabled">
                                     <a href="alla-and-taeh-3.html">Part 3 <span aria-hidden="true">&rarr;</span></a>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js" itemscope itemtype="http://schema.org/Blog">
 
-<head>
+<head itemscope itemtype="http://schema.org/WebSite">
     <!-- Site Contect (Type and Text-Type) -->
     <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
     <!-- Site Description -->
@@ -39,7 +39,8 @@
     <!-- Google Plus Snippet Image URL -->
     <meta itemprop="image" content="/img/apple-icon-144x144-precomposed.png">
     <!--Title, Stylesheets, and Javascript-->
-    <title>Txuritan | {{ page.title }}</title>
+    <title itemprop='name'>Txuritan | {{ page.title }}</title>
+    <link rel="canonical" href="http://txuritan.github.io/" itemprop="url">
     <!-- Tile color for Win8 -->
     <meta name="msapplication-TileColor" content="#3c8dbc">
     <!-- Tile Iamge for Win8 -->
