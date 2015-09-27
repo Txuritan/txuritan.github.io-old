@@ -816,3 +816,262 @@ Back
 [SAVES AND QUITS]
 
 --
+
+This office is one of many set up around the spaceport to process customs both coming and going. Other identical rooms can be spotted through doorways to the north, but they appear to be closed down or currently occupied. A single, large desk sits on the east side of the room, kept fairly tidy aside from a mug filled with lollipops and candy. A name placard proclaims the desk’s owner to be Flahne. A doorway to the west opens out back into the jungle at the base of an elevator. The door to the south is labelled ‘Out to Esbeth.'
+
+Flahne’s honey-colored skin blushes orange at your approach, though a big smile spreads across her plump lips. She gives a little shiver and sighs with slow relief as an oblong distention lifts her skirt higher and higher. Flahne coos, “Guess who’s happy to see you?” She unbuttons part of her top while licking a lollipop rather lewdly. “So, wanna have some more fun?” Pouting, she offers a little less excitedly, “Or did you just want to talk?”
+
+What did you want with Flahne? You aren’t aroused enough for sex with her right now.
+
+South
+
+--
+
+This small jungle town, Esbeth, doesn’t even have proper roads. There’s a hard-packed path underfoot, still blackened in places from when some kind of torch was used to burn away the omnipresent overgrowth. Prefabricated buildings have sprung up on all sides of this east-west path, though the one to the north is the biggest and most secure looking by far. A sign marking it as the “Office of Customs and Governance” hangs above the entrance, letting you know exactly what it is.
+
+A large bulletin board has been erected against the wall of the building to the north. There are new notices there.
+
+Bulletins
+
+--
+
+The bounty board is covered in simple leaflets, papers, and all manner of other detritus. Most appear to be for mundane tasks like trading construction equipment, advertising repair services, or business advertisements. Still, there’s at least one that stands out.
+
+New:  Dr. Julian of the Xenogen Biotech labs on the south end of town is looking for ‘a strapping, adventurous type’ to brave the jungles in search of something he can use for his research. It seems like it could be quite lucrative.
+
+--
+
+This small jungle town, Esbeth, doesn’t even have proper roads. There’s a hard-packed path underfoot, still blackened in places from when some kind of torch was used to burn away the omnipresent overgrowth. Prefabricated buildings have sprung up on all sides of this east-west path, though the one to the north is the biggest and most secure looking by far. A sign marking it as the “Office of Customs and Governance” hangs above the entrance, letting you know exactly what it is.
+
+A large bulletin board has been erected against the wall of the building to the north.
+
+West
+
+--
+
+Turning 90 degrees, the hard-packed path that serves as Esbeth’s only road hooks south and east from here, marking the northwest-most portion of town. A secure, barbed-wire-topped fence blocks off the north, though you can see the space port’s cargo elevator stretching skyward on the other side. Farther to the northwest, you can see a series of towers with cannons mounted atop them, swiveling this way and that as they eye the burned-back jungle for danger.
+
+South
+
+--
+
+The western side of Esbeth is barely more than the tamped down path you now tread. Self-assembling, pre-fabricated houses have been set up here and there by the settlers brave enough to try their luck on a new, untested planet. Thus far, Mhen’ga has not sent its jungles in to claim the small town, but that doesn’t mean it won’t. The path bends farther to the north and continues straight on to the south. The western building is closed and locked, for now.
+
+To the east you see one of the many pre-fabricated buildings in the colony, somewhat out of place among the shacks and more nondescript buildings. A pair of industrial stacks spewing out harmless wafts of steam denotes use, while the colorful and somewhat stretched sign up front states their purpose: “Crazy Carl’s Crude Cylinder Collection Cache”. The crude neon outline of a handgun helps you fill in the blanks.
+
+South
+
+--
+
+The western path continues north and south along the western edge of town. You can see guard towers rising to the west, mounted with automated guns. The ground here is scorched black; whenever they cleared the jungle, they obviously burned this part a bit too long. You can still smell the charred carbon hanging in the air.
+
+South
+
+--
+
+Here, Esbeth’s single road bends north and east, wrapping around this corner of the town. There isn’t much to see here, just some locked domiciles to the south and west and the same guard towers that ring the rest of the settlement. Distantly, you can make out the spaceport that towers over the north side of the town and your ship perched high on its landing pad.
+
+East
+
+--
+
+The southern portion of Esbeth’s lone, circular road stretches east and west from here. To the west, it curls up to the north in a 90 degree bend. The scent of sweet alien flowers graces your nose here, a pleasant distraction from the aroma of charred-away vegetation and freshly installed plumbing that plagues most of this place. You can see the trees in the distance, dark and foreboding but undoubtedly full of life and riches. To the south is what looks like a small, rambling junkyard, overflowing with spaceship and auto scrap. There is a flat-roofed stone hut buried in the detritus - a wooden sign bolted onto the front declares it to be “The Art of Scrapyard Maintenance”. The ‘O’ is a painted Yin-Yang symbol.
+
+East
+
+--
+
+Traffic on these hard-packed paths is light the whole way around the small town of Esbeth. No matter where you are, you usually don’t see more than a few people. Most of them appear to be townsfolk on the way to some errand or in the process of improving a ramshackle abode, but every now and again you see someone who is out hunting and prospecting like yourself, kitted out for a fight and looking at everything with sharp eyes. The building to the north is a monolithic looking thing labelled ‘Xenogen Biotech.' A large doorway to the north provides access, and the road goes on to the east and west.
+
+The doorway to the north is currently marked “Closed.” A notice declares that it will be open again at 6:00 standard terran time.
+
+East
+
+--
+
+A gust of pollen tickles a sneeze out of your nose as you traverse the southern edge of the town of Esbeth. The structures to the north and south are simple and plain, guarded with closed, locked doors that make it obvious there’s nothing to be done inside. Townspeople give you respectful nods as they pass but otherwise want nothing to do with you. While the road goes east and west, just east of here it doglegs north.
+
+East
+
+--
+
+The packed earth of Esbeth’s only path veers north and west away from you on its circuit of the town. To the southeast, you can see a simple tower built of plain girders that supports an automated turret. It swivels this way and that, a silent sentinel that protects the town from whatever horrors lurk in the jungle. There are blessedly few craters around the burned-out periphery, indicating that they haven’t had to fire all that often, thankfully.
+
+North
+
+--
+
+There are few people around this area of town and even fewer houses. Perhaps this is due to this place’s proximity to the town’s eastern exit. Just to the north, a path splits off to the east towards the jungle. Now and again, you can see individuals like yourself venturing out to brave the dangers and discover what treasures they can. Watchtowers guard the town’s safekeeping, and the jungle has been burnt back far enough to give the autoguns on top of them a good sight line. You suppose this town is about as safe a place as you can find in the untamed wilderness.
+
+There is a small shack to the east painted pure, alabaster white. The door has a crimson cross, the universal symbol for medical aid, glued to it. It must be what passes for a hospital on this planet.
+
+East
+
+--
+
+The inside of the medical office is about as ramshackle and rundown as the outside of the shack. Standard manufactured alumiplate forms the walls, and the floor is made of the same bland, reflective stuff. Discarded wrappers and bits of clothing are scattered everywhere. There isn’t even a trash receptacle anywhere to put it into. More importantly, a single bed is built into the east wall, covered in fresh fabric of one kind or another. The only piece of equipment that looks moderately well-maintained is a seemingly worn chair close to the bed.
+
+The door to the west leads back to the streets of Esbeth.
+
+An artificial, almost robotic looking woman is sitting on the bed with her legs crossed demurely. Your codex chimes, “V-Ko model nursedroid detected. Manufactured by Joyco. Provides basic medical services. More data available upon request.” A nurse-droid, huh? Neat.
+
+A vending machine sits next to the door, advertising JoyCo Power-up Potions.
+
+Nursedroid
+
+--
+
+You approach the nursedroid a little hesitantly, but before you can utter a single word, she smoothly bounds up off the bed and onto the balls of her feet, feet that actually appear to wear delicate white boots. Those alabaster garments merge seamlessly into the pink of her artificially smooth, perfect skin. The rest of her is trimmed in equally white clothing, though you can’t see a single seam anywhere. It appears to have been sewn or built directly on her.
+
+“Hello, half-kaithrit, I have not been assigned a designation, so you may refer to me by my model class, V-Ko. I have been placed here to dispense medical procedures for a reasonable, profit-ensuring price,” the nursedroid, V-Ko states. She smiles, luxurious, synthetic pigtails bobbing behind her. “I am certified in the care and treatment of over five thousand races for one million sixty thousand forty-five diseases and counting.” The white crosses in her eyes blink blue momentarily. “Database updated. Fifteen thousand new treatments added.” V-Ko tilts her head to the side robotically. “I can sell you medical supplies, examine you for diseases, or heal any injuries in a short amount of time. How may I assist you, citizen?”
+
+Supplies
+
+--
+
+You ask what items she has to sell.
+
+“JoyCo has provided the latest and greatest in affordable medical technology for the adventurer in need. You won’t find treatments this good for this price anywhere else!” V-Ko efficiently rattles off the full list of her wares, their effects, and their prices without pause.
+A single use shield booster - 230 credits.
+A decent joyco shield generator - 374 credits.
+(Too Expensive) A pheromonal jungle lure - 862 credits.
+(Too Expensive) A sonic jungle repellent - 862 credits.
+(Too Expensive) The joyco magic-milker 7 - 2818 credits.
+
+Back
+
+--
+
+V-Ko smiles warmly at you.
+
+Back
+
+--
+
+The inside of the medical office is about as ramshackle and rundown as the outside of the shack. Standard manufactured alumiplate forms the walls, and the floor is made of the same bland, reflective stuff. Discarded wrappers and bits of clothing are scattered everywhere. There isn’t even a trash receptacle anywhere to put it into. More importantly, a single bed is built into the east wall, covered in fresh fabric of one kind or another. The only piece of equipment that looks moderately well-maintained is a seemingly worn chair close to the bed.
+
+The door to the west leads back to the streets of Esbeth.
+
+V-Ko, a JoyCo nursedroid, is seated on the edge of the bed with her legs crossed demurely. At the sight of you, she offers, “Medical services are currently available.”
+
+A vending machine sits next to the door, advertising JoyCo Power-up Potions.
+
+West
+
+--
+
+There are few people around this area of town and even fewer houses. Perhaps this is due to this place’s proximity to the town’s eastern exit. Just to the north, a path splits off to the east towards the jungle. Now and again, you can see individuals like yourself venturing out to brave the dangers and discover what treasures they can. Watchtowers guard the town’s safekeeping, and the jungle has been burnt back far enough to give the autoguns on top of them a good sight line. You suppose this town is about as safe a place as you can find in the untamed wilderness.
+
+There is a small shack to the east painted pure, alabaster white. The door has a crimson cross, the universal symbol for medical aid, glued to it. It must be what passes for a hospital on this planet.
+
+North
+
+--
+
+The entrance to Esbeth is positioned just to the east of here. It is only an entrance in name, however. The town has no proper walls just yet, just a set of towers providing overwatch against the ever-growing foliage. The entrance is a narrow, barely-trod path that disappears into the trees to the east. Midway towards the forest, there’s a small sign staked, though you’re still too far away to read it. Esbeth’s circuitous path continues north and south from here, following the edge of the town.
+
+North
+
+--
+
+Esbeth’s single road twists to the south and west here, spoking out in straight lines that run in those directions. The path here is as barren and burned-out as everywhere else in town, but the houses on either side are fresh and new, though a few show places of rust already. To the south, you can see the eastern exit of town splitting off from the roadway. There are occasionally other adventurers, like you, on their way, but they pay you no mind.
+
+West
+
+--
+
+Prefabricated structures line this busy road to the north and south. It’s busier here than it is much further east, most likely due to the mead hall that lies northwest of here. The other buildings all appear to be residences, with closed, locked doors. Either their owners are out and about or they don’t wish to be disturbed by a random explorer. A guard tower can be seen to the northeast, looming over the city to provide protection.
+
+West
+
+--
+
+The simple path you tread upon heads straight to the east and west from here. Foot traffic is high here, either because of the customs building to the northwest or the bar to the north. Closer inspection reveals the northern building to actually be a mead hall of some description - “Burt’s Badass Mead Hall” it says on the sign. This building actually integrates some wood from the jungle into its construction, contrasting quite noticeably with its neighbors.
+
+North
+
+--
+
+A cloud of smoky inhalants hangs around the rafters of this high-ceilinged chamber to lend this place an air of mystery. The obnoxious music playing from an illuminated audio system in the corner along with the noisy beeps of a gaming system dispel that notion immediately. A huge bar lies against the western wall, shining dully in the artificial lighting. It’s obviously the most well-maintained and cared for object in the entire establishment. A doorway to the south leads back out onto the streets of Mhen’ga.
+
+Toward the corner of the Mead Hall, you note that a pair of holoscreens have been set up on one of the walls. A small crowd of dock workers and other spacers have gathered around it, apparently taking bets. Might be worth a look, who knows?
+
+Watch Screen
+
+--
+
+
+You flop down in a comfy couch near the front of the bar, looking up at a huge Super-HD Viewscreen mounted on the wall. As you sit down, the last commercial break is just coming to an end, telling you to buy Naughty Wyvern brand fibrecondoms before the screen fades to a superimposed logo of Steph Irson: Galactic Huntress, a popular nature show. The camera pans down from a  dim evening sun to an athletic young woman in an almost comically skimpy ranger outfit, with khaki hotpants and low-cut shirt rolled up to expose her midriff and ample cleavage both. Her blonde ponytail bounces excitedly as she jogs along through a jungle underbrush, the camera-drone struggling to keep pace with her.
+
+“We’re here on newly-colonized Mhen’ga, a world of lush jungles and deadly predators,” the host begins in a thick New Brisbane accent, “and we’re on the hunt for the naleen, the apex predator on this planet. Now, imagine a great big lion right out of Africa, a strong, lightning-fast beauty of a huntress, and combine that with the stealth and venom of a deadly adder, and you’ve got the naleen in a nutshell. I’ll have to be so, so careful dealing with these predators, or I’m dead for sure.”
+
+For someone supposedly tracking down a lethal hunter, she seems oddly cheerful about it. She crests a hill, tumbles through a thick bush, and eventually comes to a clearing in the jungle, one of the few places where the sun actually gets through to the ground. Resting atop a large boulder in the center is what looks like a giant snake coiled around the rocks at first, but as the camera draws in, is clearly half-serpent and half-catgirl, a woman with deliciously large breasts on a feline torso, long orange hair draped around her half-furred body.
+
+“Holy smokes!” Steph whispers to the camera, angling it at the slumbering predator. Insanely, the host approaches, creeping along the ground almost at a crawl. Lazily, the kitty-naga opens a single emerald eye, watching her approach. “Lookit this, a NALEEN! They’re the deadliest predators on this planet, with tails so strong they’d crush me dead in a heartbeat. Lemme see if I can stick mah hand up ‘er cloaca!”
+
+Is she insane?
+
+“W-what are you doing, strange little girl?” the naleen hisses as Steph creeps up. The snake-girl rises off the rock, her feline half looming over the show’s hostess menacingly.
+
+“Uh-oh, she’s noticed me! If I try to run, she’ll hunt me down in an instant! All I can do is lie perfectly still and hope she backs off! As a predator, the naleen shouldn’t bother me if I’m dead still.”
+
+“... I can hear you,” the busty monster sighs, cocking an eyebrow at Steph as she lies face-down in the dirt, heart-shaped ass swaying just inches in front of the camera.
+
+“Crikey! Looks like she’s coming in for the kill! All I can do now is try to overpower her!” Steph shouts, leaping to her feet and tackling the naleen, throwing the two of them over the boulder and into the brush. The camera drone speedily follows the brawl as Steph and the naleen tumble around in the dirt, eventually rolling into a wet mud-pit at the edge of the clearing.
+
+“W-WHAT ARE YOU DOING!? GET OFF ME!” the naleen howls as Stepth straddles her wide hips victoriously, pinning the huntress down and grabbing her massive tail’s slender tip.
+
+“There we go, got ‘er by the tail! Now let’s take a look at this beauty! Oh, she’s the real deal: lookit these scales. She’s seen some battles, too, see the dents and scars here?” she says, pointing out the various cuts and old wounds on the naleen’s scales, a history of battle engraved in her body. “Ah, ‘ere we go, see the cloaca engorging? When you hold ‘em, naleen can’t decide if you’re trying to kill ‘em or mate with ‘em! Let’s get a closer look!”
+
+Some of the bar’s patrons ooh and aah as the camera zooms in on the naleen’s pussy as it visibly engorges, drooling a clear lubricant as Steph pokes a pair of fingers in, stretching the hole several inches wide.
+
+“D-don’t touch meeeee” the naleen cries, writhing violently under Steph as the show’s host practically shoves her arm into the alien’s sodden box. “...Ooh! Ooohhhh... mmm, yessss, stick your arm riiiiight in, little girl.”
+
+“There we go!” Steph announces victoriously to the camera, “Elbow-deep in ‘er cloaca. Oh, this is a dream come true! Lookit the way she moves, writhing so gracefully. She’s a real beauty, innit she?”
+
+“Mmm, you are not so bad yourself,” the naleen coos as Steph’s arm vanishes up to the elbow inside her.
+
+“One of the most amazing things about these predators is the way they mate. Like some snakes from ol’ Earth, they congregate in huge ‘mating balls,' just like a great big animal orgy that can last for hours, or even days. I’d give anything to see one of those up close and personal!”
+
+“Is that so?” the naleen grins, and suddenly her long tail is wrapped around Steph, encircling the hostess from shoulder to toes, leaving nothing but her head visible.
+
+“Holy smokes! Looks like I forgot the most deadly attack the naleen have: a crushing vice-like grip of the tail. I’ll be dead in seconds if I don’t think of a way out of this; she’ll crush the air right from my lungs.”
+
+“You are very strange,” the naleen sighs, her feline half rising up to grab Steph’s cheeks, turning her head aside to expose her neck.
+
+“Uh-oh, looks like I’m a goner! This paralytic venom could spell the end if she bites me!” For someone convinced she’s about to die, Steph’s awfully calm about this.
+
+The naleen sighs and bites down, injecting a dose of paralytic venom into the show’s host. Much of the crowd gasps as the host limply falls into the huntress’s waiting arms. Giggling, the naleen tosses Steph over her shoulder and carries her off, slithering into the forest - and the camera drone dutifully follows, tracking the pair of them for several minutes in the brush until they come to a cave mouth. The naleen slithers in, and the camera switches to nightvision as it follows her through a network of caves and into a large, natural pit in the ground.
+
+--
+
+“Ugh, mah head!” Steph drawls, rubbing her temples as the naleen plants her at the edge of the pit. “Crickey! Looks like she’s dragged me back to her nest! Oh, but look here! Before she eats me, I’m getting to witness the ultimate alien curiosity: the naleen mating ball!” The camera cranes down to the pit, highlighting dozens - hundreds, even - of writhing bodies intertwined, cocks and breasts bouncing everywhere, no hole left unfucked as kitty-nagas bend and twist to accommodate several mates of either sex at once.
+
+With a chuckle, the naleen gives Steph a little push, sending the New Brisbaner tumbling down the slope and into the heart of the pit... and right into the waiting arms of a particularly well-endowed male naleen whose two cocks are still dripping with juices from his last partner. Steph gives a shrill scream as her clothes are torn away, revealing the clean snatch between her long legs and her bouncing breasts, both quickly gripped by the male as she’s bent over the backs of an entwined couple, ass raised in the air for his inspection. He doesn’t waste a moment before lunging in, cocks ramming into her defenseless pussy and ass - and in glorious HD, all over galactic television.
+
+Steph writhes and cries out as she’s double-penetrated by the twin-cocked naleen, just in time to have her open mouth filled with a juicy pussy. The camera pans up to reveal the busty huntress from before, fingers mashing Steph’s head into her groin as another male slithers behind her, a pair of cocks vanishing into the naleen’s ass. She coos with delight, vocalizations almost masking Steph’s screams as she’s violated. You can’t hide an unmistakable warmth spreading through your body as you watch the hostess getting fucked. With a grunt, the male naleen finishes inside Steph, pulling out just in time for the camera to zoom in on her backside, the NV-mode making the spooge drooling out of her two stretched holes practically glow.
+
+A giddy female, less busty that the first but with an almost inhumanly wide set of hips and a jiggling ass, slithers in under Steph’s ass, slender reptilian tongue lapping up the alien spunk dripping from her cunt as another male lines up his shot, sliding in with the last’s cum as lube. Powerful thrusts send Steph’s bubble butt jiggling as the kitty-naga hammers her holes, squirting the last’s cum out with each mighty blow, right onto the waiting face of the female. The bustier huntress gives an orgasmic cry as the male finishes in her ass, pushing Steph’s face as hard into her groin as she can before tumbling aside, pushed down by another horny male who immediately crams his dual cocks into Steph’s fem-cum slathered gob.
+
+Males and females both takes turns force-fucking the half-conscious hostess, smearing her with gallons of alien spunk until her gaping holes are a constant waterfall of creamy spooge, glowing in the camera’s eye. The show’s runtime is almost up by the time the huge naleen orgy is winding down; a final male has pulled Steph into his lap, both cocks shoved up her ass as the busty naleen that brought her idly fingers the human girl’s pussy, cooing, “Was it everything you hoped it would be, dear?”
+
+Steph’s head lolls haplessly, her voice breaking as she orgasms for the... hell, you lost count twenty males ago. Blowing his wad, the male pushes her off his rods, letting Steph flop down atop the coils of slumbering naleen. The camera flies down for a final closeup, showing her spunk-slathered body in its full high-definition beauty; where she should be delivering a final monologue about her exploits, Steph only manages to gurgle weakly, cum drooling down her cheeks.
+
+“This show brought to you by the Xenogen Biotech firm. Xenogen reminds you that galactic exploration is dangerous, and that natural wildlife is not to be approached without assistance from your friendly local rangers. Xenogen is not responsible for any graphic content witnessed on live galactic broadcasts or the safety of its personnel.”
+
+--
+
+A cloud of smoky inhalants hangs around the rafters of this high-ceilinged chamber to lend this place an air of mystery. The obnoxious music playing from an illuminated audio system in the corner along with the noisy beeps of a gaming system dispel that notion immediately. A huge bar lies against the western wall, shining dully in the artificial lighting. It’s obviously the most well-maintained and cared for object in the entire establishment. A doorway to the south leads back out onto the streets of Mhen’ga.
+
+Toward the corner of the Mead Hall, you note that a pair of holoscreens have been set up on one of the walls. A small crowd of dock workers and other spacers have gathered around it, apparently taking bets. Might be worth a look, who knows?
+
+
+
+
+
+
+
+
+
+
+
