@@ -1,0 +1,17 @@
+body {
+    background: url(images/Dark-Gray-Solid-1.png);
+    height: 1080px;
+    width: 1920px;
+}
+
+.red-solid-1-1 {
+    background: url(images/Red-Solid-1-1.png);
+    bottom: 168px;
+    height: 912px;
+    left: 1008px;
+    width: 912px;
+}
+
+.dark-gray-solid-1-1 {
+    background: url(images/Dark-Gray-Solid-1-1.png);
+}
