@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+    <meta name="description" content="Description">
+    <meta name="keywords" content="">
+    <meta name="author" content="Your_Name">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@Your_Twitter_Name">
+    <meta name="twitter:url" content="Page Or Site URL">
+    <meta name="twitter:title" content="Page Or Site Title">
+    <meta name="twitter:description" content="Description">
+    <meta property="og:title" content="Page Or Site Title">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="Page Or Site URL">
+    <meta property="og:description" content="Description">
+    <link rel="author" href="https://plus.google.com/u/0/Your_Google_Plus_ID">
+    <meta itemprop="name" content="Page Or Site Title">
+    <meta itemprop="description" content="Description">
+    <meta itemprop="image" content="/img/google-plus-icon.png">
+    <title>Team5612 | Robo-Raptors</title>
+    <meta name="msapplication-TileColor" content="#3c8dbc">
+    <meta name="msapplication-TileImage" content="/img/windows-8-tile-icon.png">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="Your or Your Site Name">
+    <link rel="icon" sizes="192x192" href="/img/chrome-icon-192x192.png">
+    <link rel="shortcut icon" href="/img/favicon.ico" type="/image/x-icon">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Your Or Site Name">
+    <link rel="apple-touch-startup-image" href="/img/startup-1536x2008.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="/img/startup-1496x2048.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="/img/startup-768x1004.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 1) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="/img/startup-748x1024.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 1)  and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="/img/startup-1242x2148.png" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="/img/startup-1182x2208.png" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="/img/startup-750x1294.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)">
+    <link rel="apple-touch-startup-image" href="/img/startup-640x1096.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)">
+    <link rel="apple-touch-startup-image" href="/img/startup-640x920.png" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)">
+    <link rel="apple-touch-startup-image" href="/img/startup-320x460.png" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-icon-180x180.png">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="css/materialize.css" type="text/css" media="screen,projection" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen,projection" />
+    <script>
+        function startTime() {
+            var today = new Date();
+            var h = today.getHours();
+            var m = today.getMinutes();
+            var s = today.getSeconds();
+            m = checkTime(m);
+            s = checkTime(s);
+            document.getElementById('txt').innerHTML =
+                h + ":" + m + ":" + s;
+            var t = setTimeout(startTime, 500);
+        }
+
+        function checkTime(i) {
+            if (i < 10) {
+                i = "0" + i
+            }; // add zero in front of numbers < 10
+            return i;
+        }
+
+    </script>
+</head>
+
+<body onload="startTime()">
+
+    <nav class="grey darken-2">
+        <div class="nav-wrapper">
+            <a href="#!" class="brand-logo">Dashboard</a>
+            <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+            <ul class="right hide-on-med-and-down">
+                <li><a href="sass.html">Sass</a></li>
+                <li><a href="badges.html">Components</a></li>
+                <li><a href="collapsible.html">Javascript</a></li>
+                <li><a href="mobile.html">Mobile</a></li>
+            </ul>
+            <ul class="side-nav" id="mobile-demo">
+                <li><a href="sass.html">Sass</a></li>
+                <li><a href="badges.html">Components</a></li>
+                <li><a href="collapsible.html">Javascript</a></li>
+                <li><a href="mobile.html">Mobile</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="row">
+
+        <div class="col s12 m4 l3">
+
+        </div>
+
+        <div class="col s12 m8 l9">
+
+        </div>
+
+    </div>
+
+    <footer class="page-footer grey darken-2">
+        <div class="container">
+            <div class="row">
+                <div class="col s12">
+                    <a class="waves-effect waves-light btn" href="https://www.twitter.com/TxuritanS">Twitter</a>
+                    <a class="waves-effect waves-light btn" href="https://github.com/Txuritan">GitHub</a>
+                    <a class="waves-effect waves-light btn" href="https://plus.google.com/u/0/115091787142248750574/posts">Google+</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container"> © 2014-2015 <a class="blue-text text-lighten-3" href="http://txuritan.github.io/">Ian Cronkright</a> <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            </div>
+        </div>
+    </footer>
+
+    <!--  Scripts-->
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="js/materialize.js"></script>
+    <script>
+        $(".button-collapse").sideNav();
+
+    </script>
+</body>
+
+</html>
