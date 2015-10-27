@@ -181,69 +181,21 @@ Title: Timeline
                                 <div class="timeline">
                                     <div class="line text-muted"></div>
                                     
-                                    <!-- YEAR 1881 -->
+                                    {% for member in site.data.tki-wiki-timeline %}
                                     <article class="panel panel-primary">
                                         <div class="panel-header icon">
                                             <i class="glyphicon glyphicon-globe"></i>
                                         </div>
-                                        <div class="panel-header">
-                                            <h2 class="panel-title">1881</h2>
+                                        <div class="panel-header" id="{{ tki-wiki-timeline.year }}">
+                                            <h2 class="panel-title">{{ tki-wiki-timeline.year }}</h2>
                                         </div>
                                         <div class="panel-body">
                                             
-                                            ??/??/1881 - Rii is is 'rescued' from the island - Tribal: The Island ends
+                                            {{ tki-wiki-timeline.info }}
                                             
                                         </div>
                                     </article>
-                                    <!-- END YEAR 1881 END -->
-                                    
-                                    <!-- YEAR 1868 -->
-                                    <article class="panel panel-primary">
-                                        <div class="panel-header icon">
-                                            <i class="glyphicon glyphicon-globe"></i>
-                                        </div>
-                                        <div class="panel-header">
-                                            <h2 class="panel-title">1868</h2>
-                                        </div>
-                                        <div class="panel-body">
-                                            
-                                            ??/??/1868 - Shipwreak - Rii is separated from her familY and gets stuck on the island
-                                            
-                                        </div>
-                                    </article>
-                                    <!-- END YEAR 1868 END -->
-                                    
-                                    <!-- YEAR 1864 -->
-                                    <article class="panel panel-primary">
-                                        <div class="panel-header icon">
-                                            <i class="glyphicon glyphicon-globe"></i>
-                                        </div>
-                                        <div class="panel-header">
-                                            <h2 class="panel-title">1864</h2>
-                                        </div>
-                                        <div class="panel-body">
-                                            
-                                            ??/??/1864 - Rii is born
-                                            
-                                        </div>
-                                    </article>
-                                    <!-- END YEAR 1864 END -->
-                                    
-                                    <!-- YEAR 1757 -->
-                                    <article class="panel panel-primary">
-                                        <div class="panel-header icon">
-                                            <i class="glyphicon glyphicon-globe"></i>
-                                        </div>
-                                        <div class="panel-header">
-                                            <h2 class="panel-title">1757</h2>
-                                        </div>
-                                        <div class="panel-body">
-                                            
-                                            ??/??/1757 - Human empire was founded in Oceania
-                                            
-                                        </div>
-                                    </article>
-                                    <!-- END YEAR 1757 END -->
+                                    {% endfor %}
                                     
                                 </div>
                                 <!-- END TIMELINE END -->
