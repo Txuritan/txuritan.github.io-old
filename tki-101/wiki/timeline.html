@@ -1,0 +1,211 @@
+---
+Title: Timeline
+---
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/Blog">
+
+<head>
+    <!--Main Meta-->
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <!-- Twitter Meta-->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:url" content="">
+    <meta name="twitter:title" content="TKI-101 | Wiki">
+    <meta name="twitter:description" content="">
+    <!-- Facebook Meta-->
+    <meta property="og:title" content="TKI-101 | Wiki">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:description" content="">
+    <!--Google Meta-->
+    <link rel="author" href="">
+    <meta itemprop="name" content="TKI-101 | Wiki">
+    <meta itemprop="description" content="">
+    <meta itemprop="image" content="img/">
+    <!--Title, Stylesheets, and Javascript-->
+    <title>TKI-101 | Wiki</title>
+    <link rel="shortcut icon" href="img/" type="image/x-icon">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="img/">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/">
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/tki-101.css" rel="stylesheet" type="text/css" />
+    
+    <style>
+    	<style type="text/css">
+    .timeline {
+    position: relative;
+    padding: 21px 0px 10px;
+    margin-top: 4px;
+    margin-bottom: 30px;
+}
+
+.timeline .line {
+    position: absolute;
+    width: 4px;
+    display: block;
+    background: currentColor;
+    top: 0px;
+    bottom: 0px;
+    margin-left: 30px;
+}
+
+.timeline .separator {
+    border-top: 1px solid currentColor;
+    padding: 5px;
+    padding-left: 40px;
+    font-style: italic;
+    font-size: .9em;
+    margin-left: 30px;
+}
+
+.timeline .line::before { top: -4px; }
+.timeline .line::after { bottom: -4px; }
+.timeline .line::before,
+.timeline .line::after {
+    content: '';
+    position: absolute;
+    left: -4px;
+    width: 12px;
+    height: 12px;
+    display: block;
+    border-radius: 50%;
+    background: currentColor;
+}
+
+.timeline .panel {
+    position: relative;
+    margin: 10px 0px 21px 70px;
+    clear: both;
+}
+
+.timeline .panel::before {
+    position: absolute;
+    display: block;
+    top: 8px;
+    left: -24px;
+    content: '';
+    width: 0px;
+    height: 0px;
+    border: inherit;
+    border-width: 12px;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+}
+
+.timeline .panel .panel-heading.icon * { font-size: 20px; vertical-align: middle; line-height: 40px; }
+.timeline .panel .panel-heading.icon {
+    position: absolute;
+    left: -59px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    padding: 0px;
+    border-radius: 50%;
+    text-align: center;
+    float: left;
+}
+
+.timeline .panel-outline {
+    border-color: transparent;
+    background: transparent;
+    box-shadow: none;
+}
+
+.timeline .panel-outline .panel-body {
+    padding: 10px 0px;
+}
+
+.timeline .panel-outline .panel-heading:not(.icon),
+.timeline .panel-outline .panel-footer {
+    display: none;
+}
+
+    </style>
+    </style>
+</head>
+
+<body>
+    
+    {% include tki101nav.html %}
+
+    <div class="container-fluid">
+
+        <div class="row">
+            
+            <div class="col-md-12">
+                
+                <div class="alert alert-danger">
+                    <div class="text-center"><strong>WARNING</strong> - This wiki is a work in progress</div>
+                </div>
+                
+            </div>
+            
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="well">
+
+                    <div class="row">
+                        
+                        <div class="col-md-12">
+                            
+                            <div class="text-right">
+                                <ol class="breadcrumb breadcrumb-white">
+                                    <li>
+                                    	<a href="index.html" class="">Home</a>
+                                    </li>
+                                    <li>
+                                    	<a href="timeline.html" class="active">Timeline</a>
+                                    </li>
+                                </ol>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+                        
+                        <div class="col-md-3">
+                            
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">Recently Added</div>
+                                    <div class="panel-body"></div>
+                                </div>
+                                
+                        </div>
+                        
+                        <div class="col-md-9">
+                            
+                            <div class="well well-white">
+                                
+                                <div class="timeline">
+                                
+                                </div>
+                                
+                            </div>
+                            
+                        </div>
+                        
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <script src="plugins/jquery/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>
