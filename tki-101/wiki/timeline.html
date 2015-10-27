@@ -118,16 +118,16 @@ layout: tki-default
                                 <!-- TIMELINE -->
                                 <div class="timeline">
                                     <div class="line text-muted"></div>
-                                    {% for member in site.data.tkiwikitimelines %}
+                                    {% for timeline in site.data.tki-wiki-timeline %}
                                     <article class="panel panel-primary">
                                         <div class="panel-header icon">
                                             <i class="glyphicon glyphicon-globe"></i>
                                         </div>
-                                        <div class="panel-header" id="{{ tkiwikitimeline.year }}">
-                                            <h2 class="panel-title">{{ tkiwikitimeline.year }}</h2>
+                                        <div class="panel-header" id="{{ timeline.year }}">
+                                            <h2 class="panel-title">{{ timeline.year }}</h2>
                                         </div>
                                         <div class="panel-body">
-                                            {{ tkiwikitimeline.info }}
+                                            {{ timeline.info }}
                                         </div>
                                     </article>
                                     {% endfor %}
