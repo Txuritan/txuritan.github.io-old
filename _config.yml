@@ -17,30 +17,30 @@ kramdown:
 # Footer Config
 footer-year: "2015"
 footer-comp: "SnowKAT"
-footer-url: "/"
+footer-url: ""
 
 footer-bottom2: "Terms Of Survice"
-footer-bottom2-url: "/tos/"
+footer-bottom2-url: "tos/"
 
 footer-bottom3: "Privacy"
-footer-bottom3-url: "/privacy/"
+footer-bottom3-url: "privacy/"
 
 footer-col1-num1-text: "About Us"
-footer-col1-num1-url: "/about/"
+footer-col1-num1-url: "about/"
 footer-col1-num2-text: "Blog"
-footer-col1-num2-url: "/blog/"
+footer-col1-num2-url: "blog/"
 
 footer-col2-num1-text: "Contact Us"
-footer-col2-num1-url: "/contact/"
+footer-col2-num1-url: "contact/"
 footer-col2-num2-text: "Contribute"
-footer-col2-num2-url: "/contribute/"
+footer-col2-num2-url: "contribute/"
 
 footer-col3-num1-text: "Community"
-footer-col3-num1-url: "/community/"
+footer-col3-num1-url: "community/"
 footer-col3-num2-text: "Sitemap"
-footer-col3-num2-url: "/sitemap/"
+footer-col3-num2-url: "sitemap/"
 
 footer-col4-num1-text: "Help"
-footer-col4-num1-url: "/help/"
+footer-col4-num1-url: "help/"
 footer-col4-num2-text: "API"
-footer-col4-num2-url: "/api/"
+footer-col4-num2-url: "api/"
