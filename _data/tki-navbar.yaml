@@ -1,0 +1,49 @@
+- type: dropdown
+  title: "Eras (ALL)"
+  subcategories:
+    - subtitle: "Ancient (TKI Chronicles)"
+      sublink: eras-ancient.html
+    - subtitle: "Classical (TKI Chronicles)"
+      sublink: eras-classical.html
+    - subtitle: "Medieval (TKI Chronicles)"
+      sublink: eras-medieval.html
+    - subtitle: "Renaissance (TKI Chronicles)"
+      sublink: eras-renaissance.html
+    - subtitle: "Industrial Revolution (TKI Chronicles)"
+      sublink: eras-industrial-revolution.html
+    - subtitle: "Modern (TKI Chronicles)"
+      sublink: eras-modern.html
+    - subtitle: "Future (TKI-101)"
+      sublink: eras-future.html
+
+- type: dropdown
+  title: "Character (ALL)"
+  subcategories:
+    - subtitle: "Alliana Linnan"
+      sublink: characters-alliana-linnan.html
+    - subtitle: "Arittah Evgra"
+      sublink: characters-arittah-evgra.html
+    - subtitle: "Eden Crystal"
+      sublink: characters-eden-crystal.html
+    - subtitle: "Ina Maerie"
+      sublink: characters-ina-maerie.html
+    - subtitle: "Kam"
+      sublink: characters-kam.html
+    - subtitle: "Kristian Phyno"
+      sublink: characters-kristian-phyno.html
+    - subtitle: "Liyannin Crystal"
+      sublink: characters-liyannin-crystal.html
+    - subtitle: "Nereth"
+      sublink: characters-nereth.html
+    - subtitle: "Nurosira Freluv"
+      sublink: characters-nurosira-freluv.html
+    - subtitle: "Nyrena Xelei"
+      sublink: characters-nyrena-xelei.html
+    - subtitle: "Onna"
+      sublink: characters-onna.html
+    - subtitle: "Rii"
+      sublink: characters-rii.html
+    - subtitle: "Shirolk"
+      sublink: characters-shirolk.html
+    - subtitle: "Taeh Osearr"
+      sublink: characters-taeh-osearr.html
