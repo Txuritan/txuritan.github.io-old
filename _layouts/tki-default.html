@@ -31,7 +31,7 @@
             </div>
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="nav navbar-nav navbar-right">
-                    {% for navbar in site.data.navbar %} {% if navbar.type == "button" %}
+                    {% for navbar in site.data.tki-navbar %} {% if navbar.type == "button" %}
                     <li><a href="{{ navbar.link }}">{{ navbar.title }}</a></li>
                     {% elsif navbar.type == "dropdown" %}
                     <li class="dropdown">
