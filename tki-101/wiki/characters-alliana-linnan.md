@@ -2,6 +2,7 @@
 title: Alliana Linnan
 layout: tki-default
 ---
+
 {::options parse_block_html="true" /}
 <div class="row">
 <div class="col-md-3">
@@ -12,6 +13,7 @@ layout: tki-default
 <div class="panel-body">
 </div>
 <div class="panel-body">
+
 {::options parse_block_html="true" /}
 
 
@@ -22,13 +24,14 @@ Gender | Female
 Height | 4ft 9in
 Blood Type | C
 Occupation | Strategist
-Relatives | [Taeh Osearr (Cloning Father)](/characters-taeh-osearr.html)<br/>[Kristian Phyno (Cloning Mother)](/characters-kristian-phyno.html)<br/>[Nurosira Freluv (Cloning Sister)](/characters-nurosira-freluv.html)
+Relatives | [Taeh Osearr (Cloning Father)](characters-taeh-osearr.html)<br/>[Kristian Phyno (Cloning Mother)](characters-kristian-phyno.html)<br/>[Nurosira Freluv (Cloning Sister)](characters-nurosira-freluv.html)
 
 
 </div>
 </div>
 </div>
 <div class="col-md-9">
+
 {::options parse_block_html="true" /}
 
 
