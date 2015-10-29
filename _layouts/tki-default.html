@@ -1,34 +1,98 @@
 <!DOCTYPE html>
-<html itemscope itemtype="http://schema.org/Blog">
+<html lang="en">
 
 <head>
-    <!--Main Meta-->
-    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="">
-    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <!-- Twitter Meta-->
-    <!--Title, Stylesheets, and Javascript-->
-    <title>TKI-101 | Wiki</title>
-    <link rel="shortcut icon" href="img/" type="image/x-icon">
-    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="img/">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/">
-    <link href="/fonts/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <link href="css/tki-101.css" rel="stylesheet" type="text/css" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TKI | Wiki | {{ page.title }}</title>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="dist/css/findcond.css" rel="stylesheet">
+    <link href="dist/css/notch-badge.css" rel="stylesheet">
+    <link href="dist/css/jekyll-wiki.css" rel="stylesheet">
+    {% if site.wiki-custom == true %} <link href="/custom.css" rel="stylesheet"> {% endif %}
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
 
 <body>
-
-    {% include tki101nav.html %}
-    
-    {{ content }}
-    
-    <script src="plugins/jquery/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <nav class="navbar navbar-findcond navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">{{ site.wiki-name }}</a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="nav navbar-nav navbar-right">
+                    {% for navbar in site.data.navbar %} {% if navbar.type == "button" %}
+                    <li><a href="{{ navbar.link }}">{{ navbar.title }}</a></li>
+                    {% elsif navbar.type == "dropdown" %}
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">{{ navbar.title }} <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            {% for subcategory in navbar.subcategories %}
+                            <li><a href="{{ subcategory.sublink }}">{{ subcategory.subtitle }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    {% endif %} {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid">
+        {{ content }}
+    </div>
+    <div class="container-fluid text-center">
+        <hr />
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="col-md-3">
+                    <ul class="nav nav-pills nav-stacked">
+                        <li><a href="{{ site.footer-col1-num1-url }}">{{ site.footer-col1-num1-text }}</a></li>
+                        <li><a href="{{ site.footer-col1-num2-url }}">{{ site.footer-col1-num2-text }}</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <ul class="nav nav-pills nav-stacked">
+                        <li><a href="{{ site.footer-col2-num1-url }}">{{ site.footer-col2-num1-text }}</a></li>
+                        <li><a href="{{ site.footer-col2-num2-url }}">{{ site.footer-col2-num2-text }}</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <ul class="nav nav-pills nav-stacked">
+                        <li><a href="{{ site.footer-col3-num1-url }}">{{ site.footer-col3-num1-text }}</a></li>
+                        <li><a href="{{ site.footer-col3-num2-url }}">{{ site.footer-col3-num2-text }}</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <ul class="nav nav-pills nav-stacked">
+                        <li><a href="{{ site.footer-col4-num1-url }}">{{ site.footer-col4-num1-text }}</a></li>
+                        <li><a href="{{ site.footer-col4-num2-url }}">{{ site.footer-col4-num2-text }}</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="nav nav-pills nav-justified">
+                    <li><a href="{{ site.footer-url }}">© {{ site.footer-year }} {{ site.footer-comp }}.</a></li>
+                    <li><a href="{{ site.footer-bottom2-url }}">{{ site.footer-bottom2 }}</a></li>
+                    <li><a href="{{ site.footer-bottom3-url }}">{{ site.footer-bottom3 }}</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
 </body>
 
 </html>
