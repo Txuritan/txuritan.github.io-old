@@ -2,10 +2,6 @@
 title: Home
 layout: tki-default
 ---
-<div class="row">
-<div class="col-md-9">
-
-{::options parse_block_html="true" /}
 
 #Welcome to the TKI-101 Wiki!
 
@@ -20,8 +16,3 @@ The description of Terkia conisist of the thirteen great landmasses. Dragorah is
 In Oceania, it is home to the other human race the Oceanians, also home to the many other races. Oceania is a giant continent like island in the ocean, very tropical and many merchants and sailors visit there. Oceania is alos one of the oldest civilizations in Tekaria. Oceania's culture and landscape is some what simular to Australia.
 
 Cat World is the homeland to the Felines, its massive roling hills and forest make it there home. Cat World in the north is bordered by a huge massive mountain range that blocks the Canines from entering, the Canines and Felines don't get along. Cat World's culture and landscape is some what simular to Italy's.
-
-
-
-</div>
-</div>
