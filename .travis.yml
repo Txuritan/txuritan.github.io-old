@@ -3,3 +3,5 @@ script: "bundle exec jekyll build"
 rvm:
   - 2.1.1
 cache: bundler
+notifications:
+  slack: snowkatstudios:xeTabrg0uvobYE8IXzRd9IOh
