@@ -1,5 +1,5 @@
 exclude: [vendor]
-enforce_ssl: true
+enforce_ssl: txuritan.github.io
 
 permalink: /:categories/:title/
 github_url: https://github.com/Txuritan
