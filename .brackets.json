@@ -1,5 +1,6 @@
 {
     "jscodehints.detectedExclusions": [
-        "X:/GitHub/txuritan.github.io/tki-101/wiki/plugins/treeview/treeview.js"
+        "X:/GitHub/txuritan.github.io/tki-101/wiki/plugins/treeview/treeview.js",
+        "C:/Users/Txuritan/Documents/GitHub/txuritan.github.io/plugins/txuritan/onlinecheck/twitch.js"
     ]
 }
