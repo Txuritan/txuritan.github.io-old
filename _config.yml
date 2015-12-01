@@ -43,3 +43,8 @@ footer-col4-num1-text: "Help"
 footer-col4-num1-url: "help/"
 footer-col4-num2-text: "API"
 footer-col4-num2-url: "api/"
+
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
