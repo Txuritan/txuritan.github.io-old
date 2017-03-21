@@ -2,6 +2,11 @@
 title: Rouge Test
 layout: default
 ---
+<div class="content-wrapper">
+<section class="content">
+<div class="row">
+<div class="col-md-12">
+
 ```java
 package alopex.metalliferous;
 
@@ -76,3 +81,8 @@ public class Metalliferous {
     }
 }
 ```
+
+</div>
+</div>
+</section>
+</div>
