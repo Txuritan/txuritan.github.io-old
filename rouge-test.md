@@ -1,3 +1,7 @@
+---
+title: Rouge Test
+layout: default
+---
 ```java
 package alopex.metalliferous;
 
