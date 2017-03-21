@@ -3,45 +3,25 @@ title: Rouge Test
 layout: default
 ---
 <style>
-span.kn {
-    color: #E67E22;
-}
+span.kn { color: #E67E22; }
 
-span.n {
-    color: #E74C3C;
-}
+span.n { color: #E74C3C; }
 
-span.na {
-    color: #F0DEB4;
-}
+span.na { color: #F0DEB4; }
 
-span.nn {
-    color: #FFCD02;
-}
+span.nn { color: #FFCD02; }
 
-span.nd {
-    color: #9B59B6;
-}
+span.nd { color: #9B59B6; }
 
-span.kd {
-    color: #3498DB;
-}
+span.kd { color: #3498DB; }
 
-span.s {
-    color: #2ECC71;
-}
+span.s { color: #2ECC71; }
 
-span.kt {
-    color: #1ABC9C;
-}
+span.kt { color: #1ABC9C; }
 
-span.nf {
-    color: #A5C63B;
-}
+span.nf { color: #A5C63B; }
 
-span.k {
-    color: #745EC5;
-}
+span.k { color: #745EC5; }
 </style>
 
 <div class="content-wrapper">
