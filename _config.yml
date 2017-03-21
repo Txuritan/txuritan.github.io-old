@@ -14,6 +14,7 @@ wiki-name: "TKI-101 Wiki"
 wiki-custom: false
 kramdown:
   parse_block_html: true
+  syntax_highlighter: rouge
 
 # Footer Config
 footer-year: "2015"
